@@ -29,7 +29,7 @@ env:
   ENVIRONMENT_URL: https://orgbb6164e3.crm11.dynamics.com
   USERNAME: simi.george@halfords.co.uk
   CLIENT_ID: a78c44f7-f007-47e9-87a9-36b05123a1e2
-TENANT_ID : 47804908-ccd2-4fc1-8075-3f48df960aad
+
 jobs:
   export-from-dev:
     runs-on: windows-latest
